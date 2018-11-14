@@ -1,5 +1,6 @@
 ---
 title:  "Test About!"
+food: Pizza
 ---
 
 # this is a test about page
